@@ -6,7 +6,7 @@
 
 
 
-class tokenFile {
+class token {
 
 public:
 
